@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Cricbuzz</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv=“X-UA-Compatible” content=“IE=edge”>
+  <!-- favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
+  <link rel="manifest" href="images/favicons/site.webmanifest">
+  <link rel="mask-icon" href="images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <!-- favicons -->
+  <link href="https://use.fontawesome.com/releases/v5.0.7/css/all.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/style.css')}}">
+  <link rel="stylesheet" type="text/css"  href="{{url_for('static',filename='css/custom-responsive-style.css')}}">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+  <script type="text/javascript" src="{{url_for('static',filename='js/jquery-3.2.1.min.js')}}"></script>
+  <script type="text/javascript" src="{{url_for('static',filename='js/all-plugins.js')}}"></script>
+  <script type="text/javascript" src="{{url_for('static',filename='js/plugin-active.js')}}"></script>
+</head>
+
+<body>
+  <!-- Header starts here -->
+  <header id="Header">
+    <nav class="main-navigation">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <div class="logo">
+              <a href="#"><img src="../static/images/logo.png" alt="Logo"></a>
+            </div>
+          </div>
+          <div class="col text-right">
+            <div class="menu-wrap">
+              <div id="nav-icon1">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div class="mobile-menu">
+      <ul>
+        <li><a href="#HeroBanner" class="smooth-scroll">Home</a></li>
+        <li><a href="#Gain" class="smooth-scroll">Gain The Knowledge</a></li>
+        <li><a href="#Laptop" class="smooth-scroll">Improve your business </a></li>
+        <li><a href="#Video" class="smooth-scroll">Video</a></li>
+        <li><a href="#OurWork" class="smooth-scroll">Our Work</a></li>
+        <li><a href="#ContactUs" class="smooth-scroll">Get In Touch</a></li>
+      </ul>
+    </div>
+  </header>
+  <!-- Header ends here -->
+  <!-- Banner starts here -->
+  <section id="HeroBanner">
+    <div id="BannerSlider" class="owl-carousel">
+      <div class="item">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <div class="banner-text">
+                <h1> Crictick</h1> <br /> <h1> A brand new way to obtain cricket insights effortlessly! </h1>
+                <p style="color:white;"> Check out the latest news, 
+                  <br /> photo and video galleries of your favourite cricketers, 
+                  <br />obtain analysed player performance,etc </p>
+                <div class="bannet-cta">
+                  <div class="cta-1">
+                    <a href="#">Click Here</a>
+                  </div>
+                  <div class="cta-2">
+                    <a href="#">Read More</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <div class="banner-text">
+                 <h1> Crictick</h1> <br /> <h1> A brand new way to obtain cricket insights effortlessly! </h1>
+                <p style="color:white;"> Check out the latest news, 
+                  <br /> photo and video galleries of your favourite cricketers, 
+                  <br />obtain analysed player performance,etc </p>
+                <div class="bannet-cta">
+                  <div class="cta-1">
+                    <a href="#">Click Here</a>
+                  </div>
+                  <div class="cta-2">
+                    <a href="#">Read More</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Banner ends here -->
+  <!-- Features section starts here -->
+  <section id="Gain">
+    <div class="container">
+      <div class="title text-center">
+        <h3>Gain The Knowledge you Need about cricket</h3>
+        <p>From our wide variety of informations and updates regarding crickets and the latest news as per the year 2021</p>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+          <div class="each-icon box-1">
+            <div class="icon-wrap">
+              <i class="fa fa-cogs"></i>
+            </div>
+            <div class="icon-text">
+              <h3>Cricinfo</h3>
+              <p>This contains the latest information regarding cricket and tutorials to check on for basic understanding of game of cricket </p>
+              <div class="cta">
+                <a title="Read More" href="{{url_for('result')}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+          <div class="each-icon box-2">
+            <div class="icon-wrap">
+              <i class="fa fa-chart-pie"></i>
+            </div>
+            <div class="icon-text">
+              <h3>Criclytics</h3>
+              <p>This contains players performance data coupled with various analytical approach to pick the right players over the squad for the Indian cricket team</p>
+              <div class="cta">
+                <a title="Read More" href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+          <div class="each-icon box-3">
+            <div class="icon-wrap">
+              <i class="fa fa-tachometer-alt"></i>
+            </div>
+            <div class="icon-text">
+              <h3>Cricbuzz</h3>
+              <p>This contains the forecoming match schedules, quick lively updates of whats happening, players information and so on.</p>
+              <div class="cta">
+                <a title="Read More" href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+          <div class="each-icon box-4">
+            <div class="icon-wrap">
+              <i class="fa fa-cubes"></i>
+            </div>
+            <div class="icon-text">
+              <h3>Cricsheet</h3>
+              <p>This contains forums and FAQ sections for discussions and reading articles and blogs of the cricket fan community.</p>
+              <div class="cta">
+                <a title="Read More" href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Features section ends here -->
+  <!-- Laptop section starts here -->
+  <section id="Laptop">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 ">
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+          <div class="laptop-text">
+            <h2>What is cricket?</h2>
+            <p>Want to learn more about cricket? Watch our series of 10 videos to learn everything you need to know to understand this global game.</p>
+            <a href="#">Read More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Laptop section ends here -->
+  <!-- video section starts here -->
+  <section id="Video">
+    <div class="image-wrap">
+      <picture>
+        <source media="(max-width: 767px)" srcset="../static/images/video1.jpg">
+        <img src="../static/images/video.jpg" alt="Video Thumbnail">
+      </picture>
+    </div>
+    <div class="video-icon">
+      <h3>Video</h3>
+      <p style="font-size:160%;">The first of an exclusive series of videos explaining our wonderful sport of cricket. Whether you're new to the game or a complete expert or just wanted to check exactly how something worked, 'What is Cricket?' will provide answers for all.</p>
+      <a class="popup-youtube-wst" href="https://www.youtube.com/watch?v=g-beFHld19c"><i class="fas fa-play"></i></a>
+    </div>
+  </section>
+  <!-- video section ends here -->
+  <section id="OurWork" class="clearfix">
+    <div class="container">
+      <div class="title text-center">
+        <h3>Features</h3>
+        <p>Below is some of the features provided for our app to be user friendly.</p>
+      </div>
+    </div>
+    <div class="filter-list">
+      <ul>
+        <li class="active" data-filter="all">All
+        </li>
+        <li data-filter="branding">International
+        </li>
+        <li data-filter="marketing">Domestic
+      </ul>
+    </div>
+    <div class="filter-box clearfix">
+      <div class="each-box all scale-anm branding">
+        <div class="each-box-img">
+          <img src="../static/images/category-1.jpg" alt="">
+        </div>
+        <div class="each-box-text-wap">
+          <div class="each-box-text">
+            <h3>Videos</h3>
+            <p>Player performance, strategy, highlights etc</p>
+            <a title="Read More" href="#" target="_blank"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="each-box all scale-anm marketing web-design">
+        <div class="each-box-img">
+          <img src="../static/images/category-2.jpg" alt="">
+        </div>
+        <div class="each-box-text-wap">
+          <div class="each-box-text">
+            <h3>Scores</h3>
+            <p>Live batting and bowling scores, Predicted target, remaining overs</p>
+            <a title="Read More" href="#" target="_blank"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="each-box all scale-anm media">
+        <div class="each-box-img">
+          <img src="../static/images/category-3.jpg" alt="">
+        </div>
+        <div class="each-box-text-wap">
+          <div class="each-box-text">
+            <h3>Tournaments</h3>
+            <p>Upcomming major tournament, Schedule, Team lineups, etc</p>
+            <a title="Read More" href="#" target="_blank"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <br>
+  <br>
+  <br>
+  
+</body>
+
+</html>

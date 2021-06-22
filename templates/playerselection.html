@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/ps1.css')}}" >
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <!-- favicons -->
+    <title>Player Selection</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4"></div>
+            <div class="col-lg-4">
+                <div class="card" style="background-color: rgb(207, 207, 219,0.5);border-radius: 25px;" data-aos="flip-right" data-aos-duration="2000">
+                    <div class="card-header text-center"><h4>PLAYER SELECTION</h4></div>
+                    <div class="card-body">
+                        <form action="" method="post">
+                              <select name="std" class="form-select" style="border-radius: 25px;">
+                                <option value="Adelaide Oval">Adelaide Oval</option>
+                                <option value="Arun Jaitley Stadium">Arun Jaitley Stadium</option>
+                                <option value="Bay Oval">Bay Oval</option>
+                                <option value="Brisbane Cricket Ground">Brisbane Cricket Ground</option>
+                                <option value="Queens Park Oval">Queens Park Oval</option>
+                                <option value="Kennington Oval">Kennington Oval</option>
+                                <option value="Melbourne Cricket Ground">Melbourne Cricket Ground</option>
+                                <option value="Sydney Cricket Ground">Sydney Cricket Ground</option>
+                                <option value="W A C A Ground">W A C A Ground</option>
+                              </select>
+                            <br>
+                            
+                              <input type="text" required class="form-control" name="batsman"  placeholder="batsman"/>
+                              
+                            <br>
+                            
+                              <input type="text" required class="form-control" name="bowlers" placeholder="bowlers"/>
+                              <br>
+                            
+                            
+                              <input type="text" class="form-control" name="allrounder"  placeholder="allrounders"/>
+                              <br>
+                              <input type="submit" class="btn btn-success w-100">
+                              
+                            
+                          </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4"></div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+</body>
+</html>
