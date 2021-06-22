@@ -1,0 +1,712 @@
+Country,Stadium,Player,Mat,Inns,Overs,Mdns,Runs,Wkts,Ave,Econ,SR,4,5
+AUS,Adelaide Oval,Mohammed Shami,2,2,19,1,93,7,13.28,4.89,16.2,1,0
+AUS,Adelaide Oval,R Vinay Kumar,2,2,20,2,104,5,20.8,5.2,24,0,0
+AUS,Adelaide Oval,B Kumar,1,1,10,0,45,4,11.25,4.5,15,1,0
+AUS,Adelaide Oval,UT Yadav,3,3,29,1,150,4,37.5,5.17,43.5,0,0
+AUS,Adelaide Oval,R Ashwin,3,3,26,4,118,3,39.33,4.53,52,0,0
+AUS,Adelaide Oval,RA Jadeja,4,4,40,1,213,2,106.5,5.32,120,0,0
+AUS,Adelaide Oval,MM Sharma,1,1,9,0,35,2,17.5,3.88,27,0,0
+AUS,Adelaide Oval,Z Khan,1,1,10,0,46,1,46,4.6,60,0,0
+AUS,Adelaide Oval,IK Pathan,1,1,9,0,38,1,38,4.22,54,0,0
+AUS,Adelaide Oval,Kuldeep Yadav,1,1,10,0,66,0,NaN,6.6,NaN,0,0
+AUS,Adelaide Oval,Mohammed Siraj,1,1,10,0,76,0,NaN,7.6,NaN,0,0
+AUS,Adelaide Oval,SK Raina,3,1,1,0,6,0,NaN,6,NaN,0,0
+AUS,Adelaide Oval,RG Sharma,4,2,4,0,25,0,NaN,6.25,NaN,0,0
+AUS,Adelaide Oval,S Dhawan,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Adelaide Oval,MS Dhoni,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Adelaide Oval,G Gambhir,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Adelaide Oval,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Adelaide Oval,V Kohli,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Adelaide Oval,AM Rahane,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Adelaide Oval,AT Rayudu,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Adelaide Oval,V Sehwag,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Adelaide Oval,SR Tendulkar,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Brisbane Cricket Ground,IK Pathan,2,2,20,0,115,5,23,5.75,24,0,0
+AUS,Brisbane Cricket Ground,R Ashwin,2,2,20,0,110,2,55,5.5,60,0,0
+AUS,Brisbane Cricket Ground,UT Yadav,4,4,31,0,220,2,110,7.09,93,0,0
+AUS,Brisbane Cricket Ground,STR Binny,1,1,7,0,34,1,34,4.85,42,0,0
+AUS,Brisbane Cricket Ground,RA Jadeja,3,2,19,0,93,1,93,4.89,114,0,0
+AUS,Brisbane Cricket Ground,Z Khan,1,1,10,0,46,1,46,4.6,60,0,0
+AUS,Brisbane Cricket Ground,SK Raina,3,3,12,0,61,1,61,5.08,72,0,0
+AUS,Brisbane Cricket Ground,I Sharma,1,1,10,0,60,1,60,6,60,0,0
+AUS,Brisbane Cricket Ground,RG Sharma,2,1,3,0,17,1,17,5.66,18,0,0
+AUS,Brisbane Cricket Ground,V Kohli,4,2,2,0,21,0,NaN,10.5,NaN,0,0
+AUS,Brisbane Cricket Ground,B Kumar,1,1,2,0,18,0,NaN,9,NaN,0,0
+AUS,Brisbane Cricket Ground,Mohammed Shami,1,1,4,0,23,0,NaN,5.75,NaN,0,0
+AUS,Brisbane Cricket Ground,AR Patel,1,1,7.3,0,32,0,NaN,4.26,NaN,0,0
+AUS,Brisbane Cricket Ground,V Sehwag,1,1,2,0,9,0,NaN,4.5,NaN,0,0
+AUS,Brisbane Cricket Ground,BB Sran,1,1,9,1,51,0,NaN,5.66,NaN,0,0
+AUS,Brisbane Cricket Ground,R Vinay Kumar,2,2,18,1,108,0,NaN,6,NaN,0,0
+AUS,Brisbane Cricket Ground,S Dhawan,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Brisbane Cricket Ground,MS Dhoni,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Brisbane Cricket Ground,G Gambhir,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Brisbane Cricket Ground,MK Pandey,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Brisbane Cricket Ground,PA Patel,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Brisbane Cricket Ground,AM Rahane,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Brisbane Cricket Ground,AT Rayudu,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Brisbane Cricket Ground,SR Tendulkar,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Melbourne Cricket Ground,UT Yadav,4,4,34.5,2,188,8,23.5,5.39,26.1,1,0
+AUS,Melbourne Cricket Ground,Mohammed Shami,4,4,33.5,2,158,7,22.57,4.66,29,0,0
+AUS,Melbourne Cricket Ground,YS Chahal,1,1,10,0,42,6,7,4.2,10,0,1
+AUS,Melbourne Cricket Ground,RA Jadeja,5,5,38,0,222,5,44.4,5.84,45.6,0,0
+AUS,Melbourne Cricket Ground,R Ashwin,4,4,34,1,173,4,43.25,5.08,51,0,0
+AUS,Melbourne Cricket Ground,B Kumar,2,2,17.5,1,72,3,24,4.03,35.6,0,0
+AUS,Melbourne Cricket Ground,MM Sharma,2,2,14,0,67,3,22.33,4.78,28,0,0
+AUS,Melbourne Cricket Ground,R Vinay Kumar,1,1,7,0,21,3,7,3,14,0,0
+AUS,Melbourne Cricket Ground,I Sharma,1,1,10,0,53,2,26.5,5.3,30,0,0
+AUS,Melbourne Cricket Ground,AR Patel,1,1,10,0,45,1,45,4.5,60,0,0
+AUS,Melbourne Cricket Ground,R Sharma,1,1,6.2,0,44,1,44,6.94,38,0,0
+AUS,Melbourne Cricket Ground,RG Sharma,6,1,2,0,17,1,17,8.5,12,0,0
+AUS,Melbourne Cricket Ground,R Dhawan,1,1,6,0,33,0,NaN,5.5,NaN,0,0
+AUS,Melbourne Cricket Ground,Gurkeerat Singh,1,1,5,0,27,0,NaN,5.4,NaN,0,0
+AUS,Melbourne Cricket Ground,KM Jadhav,1,1,6,0,35,0,NaN,5.83,NaN,0,0
+AUS,Melbourne Cricket Ground,V Kohli,6,1,1,0,4,0,NaN,4,NaN,0,0
+AUS,Melbourne Cricket Ground,P Kumar,1,1,7,0,35,0,NaN,5,NaN,0,0
+AUS,Melbourne Cricket Ground,SK Raina,4,4,7,1,46,0,NaN,6.57,NaN,0,0
+AUS,Melbourne Cricket Ground,V Shankar,1,1,6,0,23,0,NaN,3.83,NaN,0,0
+AUS,Melbourne Cricket Ground,BB Sran,1,1,8,0,63,0,NaN,7.87,NaN,0,0
+AUS,Melbourne Cricket Ground,S Dhawan,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Melbourne Cricket Ground,MS Dhoni,6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Melbourne Cricket Ground,G Gambhir,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Melbourne Cricket Ground,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Melbourne Cricket Ground,AM Rahane,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Melbourne Cricket Ground,SR Tendulkar,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,UT Yadav,3,3,23,0,193,7,27.57,8.39,19.7,1,0
+AUS,Sydney Cricket Ground,JJ Bumrah,3,3,30,1,192,4,48,6.4,45,0,0
+AUS,Sydney Cricket Ground,Mohammed Shami,5,4,39,0,246,4,61.5,6.3,58.5,0,0
+AUS,Sydney Cricket Ground,V Sehwag,1,1,9,0,43,3,14.33,4.77,18,0,0
+AUS,Sydney Cricket Ground,RA Jadeja,7,6,60,0,324,2,162,5.4,180,0,0
+AUS,Sydney Cricket Ground,Kuldeep Yadav,1,1,10,0,54,2,27,5.4,30,0,0
+AUS,Sydney Cricket Ground,B Kumar,1,1,10,0,66,2,33,6.6,30,0,0
+AUS,Sydney Cricket Ground,P Kumar,1,1,10,1,37,2,18.5,3.7,30,0,0
+AUS,Sydney Cricket Ground,I Sharma,2,1,10,0,60,2,30,6,30,0,0
+AUS,Sydney Cricket Ground,MM Sharma,1,1,10,0,75,2,37.5,7.5,30,0,0
+AUS,Sydney Cricket Ground,R Ashwin,2,2,20,0,87,1,87,4.35,120,0,0
+AUS,Sydney Cricket Ground,YS Chahal,2,2,19,0,160,1,160,8.42,114,0,0
+AUS,Sydney Cricket Ground,R Dhawan,1,1,10,0,74,1,74,7.4,60,0,0
+AUS,Sydney Cricket Ground,HH Pandya,2,1,4,0,24,1,24,6,24,0,0
+AUS,Sydney Cricket Ground,NA Saini,2,2,17,0,153,1,153,9,102,0,0
+AUS,Sydney Cricket Ground,MA Agarwal,2,1,1,0,10,0,NaN,10,NaN,0,0
+AUS,Sydney Cricket Ground,KK Ahmed,1,1,8,0,55,0,NaN,6.87,NaN,0,0
+AUS,Sydney Cricket Ground,Gurkeerat Singh,1,1,2,0,17,0,NaN,8.5,NaN,0,0
+AUS,Sydney Cricket Ground,V Kohli,7,1,1,0,7,0,NaN,7,NaN,0,0
+AUS,Sydney Cricket Ground,IK Pathan,1,1,5,1,28,0,NaN,5.6,NaN,0,0
+AUS,Sydney Cricket Ground,AT Rayudu,2,1,2,0,13,0,NaN,6.5,NaN,0,0
+AUS,Sydney Cricket Ground,STR Binny,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,S Dhawan,6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,MS Dhoni,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,G Gambhir,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,SS Iyer,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,MK Pandey,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,AR Patel,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,AM Rahane,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,KL Rahul,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,SK Raina,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,RG Sharma,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,Sydney Cricket Ground,SR Tendulkar,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,W A C A Ground,R Ashwin,4,4,38,2,163,10,16.3,4.28,22.8,1,0
+AUS,W A C A Ground,RA Jadeja,5,5,42.1,0,214,5,42.8,5.07,50.6,0,0
+AUS,W A C A Ground,Mohammed Shami,2,2,17,2,66,4,16.5,3.88,25.5,0,0
+AUS,W A C A Ground,MM Sharma,3,3,24,4,87,4,21.75,3.62,36,0,0
+AUS,W A C A Ground,UT Yadav,3,3,26.3,3,111,4,27.75,4.18,39.7,0,0
+AUS,W A C A Ground,STR Binny,1,1,8,0,33,3,11,4.12,16,0,0
+AUS,W A C A Ground,BB Sran,1,1,9.2,0,56,3,18.66,6,18.6,0,0
+AUS,W A C A Ground,Z Khan,1,1,10,1,44,2,22,4.4,30,0,0
+AUS,W A C A Ground,B Kumar,2,2,14,0,61,1,61,4.35,84,0,0
+AUS,W A C A Ground,AR Patel,1,1,10,1,39,1,39,3.9,60,0,0
+AUS,W A C A Ground,R Vinay Kumar,1,1,10,1,56,1,56,5.6,60,0,0
+AUS,W A C A Ground,V Kohli,5,1,2,0,13,0,NaN,6.5,NaN,0,0
+AUS,W A C A Ground,P Kumar,1,1,10,0,54,0,NaN,5.4,NaN,0,0
+AUS,W A C A Ground,RG Sharma,4,1,1,0,11,0,NaN,11,NaN,0,0
+AUS,W A C A Ground,S Dhawan,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,W A C A Ground,MS Dhoni,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,W A C A Ground,MK Pandey,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,W A C A Ground,AM Rahane,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,W A C A Ground,SK Raina,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,W A C A Ground,AT Rayudu,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,W A C A Ground,V Sehwag,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+AUS,W A C A Ground,SR Tendulkar,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Khan Shaheb Osman Ali Stadium,Mohammed Shami,2,2,20,1,131,7,18.71,6.55,17.1,1,0
+BDESH,Khan Shaheb Osman Ali Stadium,R Ashwin,2,2,20,1,92,3,30.66,4.6,40,0,0
+BDESH,Khan Shaheb Osman Ali Stadium,RA Jadeja,2,2,20,1,67,3,22.33,3.35,40,0,0
+BDESH,Khan Shaheb Osman Ali Stadium,VR Aaron,1,1,7.5,0,74,1,74,9.44,47,0,0
+BDESH,Khan Shaheb Osman Ali Stadium,B Kumar,2,2,17.2,2,86,1,86,4.96,104,0,0
+BDESH,Khan Shaheb Osman Ali Stadium,STR Binny,1,1,4,0,22,0,NaN,5.5,NaN,0,0
+BDESH,Khan Shaheb Osman Ali Stadium,V Kohli,2,1,1.1,0,6,0,NaN,5.14,NaN,0,0
+BDESH,Khan Shaheb Osman Ali Stadium,AT Rayudu,2,2,4,0,26,0,NaN,6.5,NaN,0,0
+BDESH,Khan Shaheb Osman Ali Stadium,RG Sharma,2,1,5,0,29,0,NaN,5.8,NaN,0,0
+BDESH,Khan Shaheb Osman Ali Stadium,S Dhawan,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Khan Shaheb Osman Ali Stadium,KD Karthik,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Khan Shaheb Osman Ali Stadium,AM Rahane,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Shere Bangla National Stadium,R Ashwin,8,8,78.4,6,344,17,20.23,4.37,27.7,0,0
+BDESH,Shere Bangla National Stadium,STR Binny,3,2,10.4,2,45,7,6.42,4.21,9.1,0,1
+BDESH,Shere Bangla National Stadium,RA Jadeja,6,6,45,2,230,6,38.33,5.11,45,1,0
+BDESH,Shere Bangla National Stadium,P Kumar,3,3,27,0,180,5,36,6.66,32.4,0,0
+BDESH,Shere Bangla National Stadium,A Mishra,4,3,30,1,104,5,20.8,3.46,36,0,0
+BDESH,Shere Bangla National Stadium,IK Pathan,3,3,27.1,1,162,5,32.4,5.96,32.6,1,0
+BDESH,Shere Bangla National Stadium,MM Sharma,4,3,18.2,3,98,5,19.6,5.34,22,1,0
+BDESH,Shere Bangla National Stadium,UT Yadav,5,4,26,0,171,5,34.2,6.57,31.2,0,0
+BDESH,Shere Bangla National Stadium,B Kumar,4,4,30,1,150,4,37.5,5,45,0,0
+BDESH,Shere Bangla National Stadium,SK Raina,9,7,39.2,1,202,4,50.5,5.13,59,0,0
+BDESH,Shere Bangla National Stadium,DS Kulkarni,2,2,15,0,76,3,25.33,5.06,30,0,0
+BDESH,Shere Bangla National Stadium,AR Patel,5,3,26,1,151,3,50.33,5.8,52,0,0
+BDESH,Shere Bangla National Stadium,R Vinay Kumar,1,1,9,0,55,3,18.33,6.11,18,0,0
+BDESH,Shere Bangla National Stadium,AB Dinda,2,2,13.2,1,85,2,42.5,6.37,40,0,0
+BDESH,Shere Bangla National Stadium,Mohammed Shami,2,2,17.2,0,99,2,49.5,5.71,52,0,0
+BDESH,Shere Bangla National Stadium,Parvez Rasool,1,1,10,0,60,2,30,6,30,0,0
+BDESH,Shere Bangla National Stadium,AT Rayudu,7,1,2,1,5,1,5,2.5,12,0,0
+BDESH,Shere Bangla National Stadium,V Kohli,8,1,2,0,12,0,NaN,6,NaN,0,0
+BDESH,Shere Bangla National Stadium,YK Pathan,1,1,5,0,30,0,NaN,6,NaN,0,0
+BDESH,Shere Bangla National Stadium,RG Sharma,8,3,8,0,46,0,NaN,5.75,NaN,0,0
+BDESH,Shere Bangla National Stadium,SR Tendulkar,3,1,1.4,0,12,0,NaN,7.2,NaN,0,0
+BDESH,Shere Bangla National Stadium,RV Uthappa,3,1,0.2,0,0,0,NaN,0,NaN,0,0
+BDESH,Shere Bangla National Stadium,S Dhawan,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Shere Bangla National Stadium,MS Dhoni,6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Shere Bangla National Stadium,G Gambhir,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Shere Bangla National Stadium,KD Karthik,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Shere Bangla National Stadium,CA Pujara,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Shere Bangla National Stadium,AM Rahane,6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Shere Bangla National Stadium,WP Saha,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+BDESH,Shere Bangla National Stadium,MK Tiwary,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Sophia Gardens,RA Jadeja,4,4,31,2,144,8,18,4.64,23.2,1,0
+ENG,Sophia Gardens,R Ashwin,4,4,33.1,1,158,5,31.6,4.76,39.8,0,0
+ENG,Sophia Gardens,I Sharma,2,2,17,1,99,5,19.8,5.82,20.4,0,0
+ENG,Sophia Gardens,B Kumar,3,3,23,2,97,4,24.25,4.21,34.5,0,0
+ENG,Sophia Gardens,Mohammed Shami,1,1,6,0,32,2,16,5.33,18,0,0
+ENG,Sophia Gardens,UT Yadav,2,2,18,2,105,2,52.5,5.83,54,0,0
+ENG,Sophia Gardens,V Kohli,4,1,6,0,44,1,44,7.33,36,0,0
+ENG,Sophia Gardens,SK Raina,4,2,9,0,48,1,48,5.33,54,0,0
+ENG,Sophia Gardens,RP Singh,1,1,7,0,51,1,51,7.28,42,0,0
+ENG,Sophia Gardens,R Vinay Kumar,1,1,6.2,0,42,1,42,6.63,38,0,0
+ENG,Sophia Gardens,MS Dhoni,4,1,4,0,17,0,NaN,4.25,NaN,0,0
+ENG,Sophia Gardens,MM Patel,1,1,4,0,26,0,NaN,6.5,NaN,0,0
+ENG,Sophia Gardens,MM Sharma,1,1,6,1,18,0,NaN,3,NaN,0,0
+ENG,Sophia Gardens,S Dhawan,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Sophia Gardens,R Dravid,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Sophia Gardens,KD Karthik,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Sophia Gardens,PA Patel,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Sophia Gardens,AM Rahane,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Sophia Gardens,RG Sharma,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Old Trafford,Mohammed Shami,1,1,6.2,0,16,4,4,2.52,9.5,1,0
+ENG,Old Trafford,HH Pandya,3,3,23,0,127,4,31.75,5.52,34.5,0,0
+ENG,Old Trafford,JJ Bumrah,3,3,24,2,100,3,33.33,4.16,48,0,0
+ENG,Old Trafford,YS Chahal,3,3,24,0,155,3,51.66,6.45,48,0,0
+ENG,Old Trafford,Kuldeep Yadav,2,2,18,2,67,3,22.33,3.72,36,0,0
+ENG,Old Trafford,B Kumar,2,2,12.4,1,51,3,17,4.02,25.3,0,0
+ENG,Old Trafford,V Shankar,2,1,5.2,0,22,2,11,4.12,16,0,0
+ENG,Old Trafford,RA Jadeja,1,1,10,0,34,1,34,3.4,60,0,0
+ENG,Old Trafford,KM Jadhav,2,1,1,0,4,0,NaN,4,NaN,0,0
+ENG,Old Trafford,MS Dhoni,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Old Trafford,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Old Trafford,V Kohli,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Old Trafford,RR Pant,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Old Trafford,KL Rahul,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Old Trafford,RG Sharma,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Kennington Oval,RA Jadeja,5,5,43,2,236,8,29.5,5.48,32.2,0,1
+ENG,Kennington Oval,B Kumar,5,5,45.3,2,203,8,25.37,4.46,34.1,0,0
+ENG,Kennington Oval,R Ashwin,4,4,37,2,189,5,37.8,5.1,44.4,0,0
+ENG,Kennington Oval,JJ Bumrah,4,4,37,1,209,5,41.8,5.64,44.4,0,0
+ENG,Kennington Oval,YS Chahal,1,1,10,0,62,2,31,6.2,30,0,0
+ENG,Kennington Oval,HH Pandya,4,4,37,1,224,2,112,6.05,111,0,0
+ENG,Kennington Oval,KM Jadhav,4,3,7,0,59,1,59,8.42,42,0,0
+ENG,Kennington Oval,MM Patel,1,1,8.5,0,63,1,63,7.13,53,0,0
+ENG,Kennington Oval,I Sharma,1,1,10,1,43,1,43,4.3,60,0,0
+ENG,Kennington Oval,UT Yadav,2,2,18.4,0,121,1,121,6.48,112,0,0
+ENG,Kennington Oval,V Kohli,6,2,7,0,43,0,NaN,6.14,NaN,0,0
+ENG,Kennington Oval,Kuldeep Yadav,1,1,9,0,55,0,NaN,6.11,NaN,0,0
+ENG,Kennington Oval,P Kumar,1,1,4,0,20,0,NaN,5,NaN,0,0
+ENG,Kennington Oval,SK Raina,2,1,5,0,16,0,NaN,3.2,NaN,0,0
+ENG,Kennington Oval,RP Singh,1,1,6,0,32,0,NaN,5.33,NaN,0,0
+ENG,Kennington Oval,S Dhawan,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Kennington Oval,MS Dhoni,6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Kennington Oval,R Dravid,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Kennington Oval,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Kennington Oval,PA Patel,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Kennington Oval,AM Rahane,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Kennington Oval,KL Rahul,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Kennington Oval,RG Sharma,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Kennington Oval,Yuvraj Singh,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Headingley,JJ Bumrah,1,1,10,2,37,3,12.33,3.7,20,0,0
+ENG,Headingley,B Kumar,3,3,25,0,167,2,83.5,6.68,75,0,0
+ENG,Headingley,Mohammed Shami,1,1,10,0,52,2,26,5.2,30,0,0
+ENG,Headingley,R Ashwin,1,1,10,2,49,1,49,4.9,60,0,0
+ENG,Headingley,RA Jadeja,2,2,19,0,106,1,106,5.57,114,0,0
+ENG,Headingley,Kuldeep Yadav,2,2,20,0,113,1,113,5.65,120,0,0
+ENG,Headingley,HH Pandya,2,2,15.3,0,89,1,89,5.74,93,0,0
+ENG,Headingley,SK Raina,2,2,9,0,48,1,48,5.33,54,0,0
+ENG,Headingley,SN Thakur,1,1,10,0,51,1,51,5.1,60,0,0
+ENG,Headingley,UT Yadav,1,1,6,0,46,1,46,7.66,36,0,0
+ENG,Headingley,YS Chahal,1,1,10,0,41,0,NaN,4.1,NaN,0,0
+ENG,Headingley,S Dhawan,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Headingley,MS Dhoni,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Headingley,KD Karthik,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Headingley,V Kohli,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Headingley,RR Pant,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Headingley,AM Rahane,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Headingley,KL Rahul,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Headingley,AT Rayudu,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Headingley,RG Sharma,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Edgbaston,RA Jadeja,5,5,40,1,185,9,20.55,4.62,26.6,0,0
+ENG,Edgbaston,Mohammed Shami,3,3,26.3,2,165,9,18.33,6.22,17.6,0,1
+ENG,Edgbaston,B Kumar,6,6,43,7,179,8,22.37,4.16,32.2,0,0
+ENG,Edgbaston,JJ Bumrah,4,4,35,3,161,7,23,4.6,30,1,0
+ENG,Edgbaston,R Ashwin,4,4,32,1,152,5,30.4,4.75,38.4,0,0
+ENG,Edgbaston,HH Pandya,4,4,32,0,197,5,39.4,6.15,38.4,0,0
+ENG,Edgbaston,I Sharma,2,2,11,0,76,4,19,6.9,16.5,0,0
+ENG,Edgbaston,UT Yadav,3,3,16.2,1,69,4,17.25,4.22,24.5,0,0
+ENG,Edgbaston,KM Jadhav,3,1,6,0,22,2,11,3.66,18,0,0
+ENG,Edgbaston,YS Chahal,2,2,20,0,138,1,138,6.9,120,0,0
+ENG,Edgbaston,Kuldeep Yadav,1,1,10,0,72,1,72,7.2,60,0,0
+ENG,Edgbaston,SK Raina,3,2,10,0,55,1,55,5.5,60,0,0
+ENG,Edgbaston,V Kohli,7,1,2,0,11,0,NaN,5.5,NaN,0,0
+ENG,Edgbaston,DS Kulkarni,1,1,7,0,35,0,NaN,5,NaN,0,0
+ENG,Edgbaston,S Dhawan,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Edgbaston,MS Dhoni,7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Edgbaston,KD Karthik,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Edgbaston,RR Pant,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Edgbaston,AM Rahane,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Edgbaston,KL Rahul,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Edgbaston,AT Rayudu,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Edgbaston,RG Sharma,6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+ENG,Edgbaston,Yuvraj Singh,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,YS Chahal,3,3,28.2,1,150,7,21.42,5.29,24.2,0,0
+NZ,Bay Oval,Kuldeep Yadav,2,2,18,0,84,4,21,4.66,27,1,0
+NZ,Bay Oval,B Kumar,2,2,17,2,88,4,22,5.17,25.5,0,0
+NZ,Bay Oval,Mohammed Shami,2,2,15,0,84,4,21,5.6,22.5,0,0
+NZ,Bay Oval,HH Pandya,1,1,10,0,45,2,22.5,4.5,30,0,0
+NZ,Bay Oval,RA Jadeja,1,1,10,0,45,1,45,4.5,60,0,0
+NZ,Bay Oval,KM Jadhav,2,2,9,0,52,1,52,5.77,54,0,0
+NZ,Bay Oval,SN Thakur,1,1,9.1,0,87,1,87,9.49,55,0,0
+NZ,Bay Oval,JJ Bumrah,1,1,10,0,50,0,NaN,5,NaN,0,0
+NZ,Bay Oval,NA Saini,1,1,8,0,68,0,NaN,8.5,NaN,0,0
+NZ,Bay Oval,V Shankar,1,1,2,0,17,0,NaN,8.5,NaN,0,0
+NZ,Bay Oval,MA Agarwal,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,S Dhawan,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,MS Dhoni,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,SS Iyer,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,V Kohli,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,MK Pandey,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,KL Rahul,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,AT Rayudu,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,RG Sharma,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Bay Oval,PP Shaw,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Seddon Park,Mohammed Shami,4,4,33.1,0,220,8,27.5,6.63,24.8,0,0
+NZ,Seddon Park,B Kumar,3,3,22,2,130,3,43.33,5.9,44,0,0
+NZ,Seddon Park,R Ashwin,3,3,28,1,129,2,64.5,4.6,84,0,0
+NZ,Seddon Park,RA Jadeja,4,4,35,2,188,2,94,5.37,105,0,0
+NZ,Seddon Park,Kuldeep Yadav,2,2,11,0,86,2,43,7.81,33,0,0
+NZ,Seddon Park,SK Raina,2,2,14,0,58,2,29,4.14,42,0,0
+NZ,Seddon Park,VR Aaron,1,1,6.1,0,51,1,51,8.27,37,0,0
+NZ,Seddon Park,I Sharma,1,1,6,0,46,1,46,7.66,36,0,0
+NZ,Seddon Park,MM Sharma,1,1,6,0,38,1,38,6.33,36,0,0
+NZ,Seddon Park,SN Thakur,1,1,9,0,80,1,80,8.88,54,0,0
+NZ,Seddon Park,UT Yadav,1,1,4,0,34,1,34,8.5,24,0,0
+NZ,Seddon Park,KK Ahmed,1,1,3,0,19,0,NaN,6.33,NaN,0,0
+NZ,Seddon Park,STR Binny,1,1,1,0,8,0,NaN,8,NaN,0,0
+NZ,Seddon Park,JJ Bumrah,1,1,10,1,53,0,NaN,5.3,NaN,0,0
+NZ,Seddon Park,YS Chahal,1,1,2.4,0,32,0,NaN,12,NaN,0,0
+NZ,Seddon Park,V Kohli,4,1,2,0,12,0,NaN,6,NaN,0,0
+NZ,Seddon Park,HH Pandya,1,1,3,0,15,0,NaN,5,NaN,0,0
+NZ,Seddon Park,AT Rayudu,2,1,3,0,23,0,NaN,7.66,NaN,0,0
+NZ,Seddon Park,RG Sharma,4,1,3,0,21,0,NaN,7,NaN,0,0
+NZ,Seddon Park,MA Agarwal,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Seddon Park,S Dhawan,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Seddon Park,MS Dhoni,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Seddon Park,SS Iyer,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Seddon Park,KM Jadhav,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Seddon Park,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Seddon Park,AM Rahane,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Seddon Park,KL Rahul,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Seddon Park,PP Shaw,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+NZ,Seddon Park,Shubman Gill,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,Kuldeep Yadav,3,3,30,0,161,9,17.88,5.36,20,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,Mohammed Shami,3,3,24.3,0,153,6,25.5,6.24,24.5,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,RA Jadeja,4,4,39,3,206,5,41.2,5.28,46.8,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,A Mishra,1,1,6,2,18,5,3.6,3,7.2,0,1
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,UT Yadav,3,3,24,0,144,5,28.8,6,28.8,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,YS Chahal,2,2,20,3,109,4,27.25,5.45,30,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,R Ashwin,2,2,20,1,111,3,37,5.55,40,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,B Kumar,2,2,15.5,1,91,3,30.33,5.74,31.6,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,JJ Bumrah,2,2,13,1,55,2,27.5,4.23,39,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,HH Pandya,1,1,10,1,49,2,24.5,4.9,30,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,AR Patel,1,1,4.1,0,9,2,4.5,2.16,12.5,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,R Vinay Kumar,1,1,10,2,43,2,21.5,4.3,30,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,MM Sharma,1,1,6.3,0,48,1,48,7.38,39,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,SN Thakur,1,1,8,0,55,1,55,6.87,48,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,J Yadav,1,1,4,0,8,1,8,2,24,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,VR Aaron,1,1,10,0,66,0,NaN,6.6,NaN,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,DL Chahar,1,1,7,1,44,0,NaN,6.28,NaN,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,SS Iyer,2,1,1,0,13,0,NaN,13,NaN,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,SK Raina,2,2,8,0,45,0,NaN,5.62,NaN,0,0
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,S Dhawan,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,MS Dhoni,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,G Gambhir,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,KM Jadhav,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,V Kohli,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,MK Pandey,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,RR Pant,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,PA Patel,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,AM Rahane,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,KL Rahul,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,AT Rayudu,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,V Sehwag,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,RG Sharma,6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Dr YS Rajasekhara Reddy Cricket Stadium,Yuvraj Singh,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,RA Jadeja,4,4,36,2,146,7,20.85,4.05,30.8,0,0
+IND,Arun Jaitley Stadium,Mohammed Shami,3,3,27.3,4,116,7,16.57,4.21,23.5,1,0
+IND,Arun Jaitley Stadium,B Kumar,3,3,27,2,111,5,22.2,4.11,32.4,0,0
+IND,Arun Jaitley Stadium,A Mishra,2,2,20,2,100,5,20,5,24,0,0
+IND,Arun Jaitley Stadium,R Vinay Kumar,1,1,9,1,30,4,7.5,3.33,13.5,1,0
+IND,Arun Jaitley Stadium,UT Yadav,3,3,26.2,0,134,4,33.5,5.08,39.5,0,0
+IND,Arun Jaitley Stadium,R Ashwin,2,2,20,1,103,3,34.33,5.15,40,0,0
+IND,Arun Jaitley Stadium,JJ Bumrah,2,2,20,0,74,3,24.66,3.7,40,0,0
+IND,Arun Jaitley Stadium,I Sharma,1,1,9.5,0,36,3,12,3.66,19.6,0,0
+IND,Arun Jaitley Stadium,KM Jadhav,2,2,3,0,19,1,19,6.33,18,0,0
+IND,Arun Jaitley Stadium,Kuldeep Yadav,1,1,10,0,74,1,74,7.4,60,0,0
+IND,Arun Jaitley Stadium,P Kumar,1,1,9,1,40,1,40,4.44,54,0,0
+IND,Arun Jaitley Stadium,AR Patel,1,1,10,0,49,1,49,4.9,60,0,0
+IND,Arun Jaitley Stadium,V Kohli,5,2,7,0,38,0,NaN,5.42,NaN,0,0
+IND,Arun Jaitley Stadium,HH Pandya,1,1,9,0,45,0,NaN,5,NaN,0,0
+IND,Arun Jaitley Stadium,S Dhawan,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,MS Dhoni,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,G Gambhir,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,MK Pandey,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,RR Pant,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,PA Patel,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,AM Rahane,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,SK Raina,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,AT Rayudu,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,V Shankar,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,RG Sharma,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Arun Jaitley Stadium,Yuvraj Singh,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Nehru Stadium,RA Jadeja,3,3,27,1,107,6,17.83,3.96,27,0,0
+IND,Nehru Stadium,Mohammed Shami,3,3,19,2,118,6,19.66,6.21,19,1,0
+IND,Nehru Stadium,R Ashwin,2,2,16.5,0,81,5,16.2,4.81,20.2,0,0
+IND,Nehru Stadium,B Kumar,3,3,25,3,93,3,31,3.72,50,0,0
+IND,Nehru Stadium,SK Raina,3,2,12,1,48,3,16,4,24,0,0
+IND,Nehru Stadium,A Mishra,1,1,10,0,72,1,72,7.2,60,0,0
+IND,Nehru Stadium,I Sharma,1,1,4,0,28,0,NaN,7,NaN,0,0
+IND,Nehru Stadium,MM Sharma,1,1,9,0,61,0,NaN,6.77,NaN,0,0
+IND,Nehru Stadium,RG Sharma,1,1,2,0,4,0,NaN,2,NaN,0,0
+IND,Nehru Stadium,JD Unadkat,1,1,6,0,39,0,NaN,6.5,NaN,0,0
+IND,Nehru Stadium,Yuvraj Singh,2,1,4,0,19,0,NaN,4.75,NaN,0,0
+IND,Nehru Stadium,S Dhawan,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Nehru Stadium,MS Dhoni,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Nehru Stadium,G Gambhir,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Nehru Stadium,V Kohli,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Nehru Stadium,AM Rahane,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Nehru Stadium,AT Rayudu,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Punjab Cricket Association IS Bindra Stadium,JJ Bumrah,3,3,28.3,0,158,7,22.57,5.54,24.4,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,RA Jadeja,3,3,28,2,111,5,22.2,3.96,33.6,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,YS Chahal,2,2,20,0,140,4,35,7,30,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,KM Jadhav,2,2,10,0,73,3,24.33,7.3,20,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,B Kumar,4,4,38,3,187,3,62.33,4.92,76,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,I Sharma,2,2,18,3,110,3,36.66,6.11,36,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,R Vinay Kumar,2,2,17.3,1,114,3,38,6.51,35,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,UT Yadav,2,2,20,0,146,3,48.66,7.3,40,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,R Ashwin,3,3,29,0,166,2,83,5.72,87,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,A Mishra,1,1,10,0,46,2,23,4.6,30,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,V Kohli,5,2,4,0,38,1,38,9.5,24,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,Kuldeep Yadav,1,1,10,0,64,1,64,6.4,60,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,P Kumar,1,1,10,0,56,1,56,5.6,60,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,HH Pandya,2,2,15,0,73,1,73,4.86,90,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,Washington Sundar,1,1,10,0,65,1,65,6.5,60,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,SS Iyer,1,1,1,0,2,0,NaN,2,NaN,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,Mohammed Shami,1,1,8,0,58,0,NaN,7.25,NaN,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,AR Patel,1,1,10,0,49,0,NaN,4.9,NaN,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,SK Raina,3,1,2,0,10,0,NaN,5,NaN,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,V Shankar,1,1,5,0,29,0,NaN,5.8,NaN,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,Yuvraj Singh,2,1,3,0,20,0,NaN,6.66,NaN,0,0
+IND,Punjab Cricket Association IS Bindra Stadium,S Dhawan,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Punjab Cricket Association IS Bindra Stadium,MS Dhoni,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Punjab Cricket Association IS Bindra Stadium,G Gambhir,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Punjab Cricket Association IS Bindra Stadium,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Punjab Cricket Association IS Bindra Stadium,MK Pandey,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Punjab Cricket Association IS Bindra Stadium,RR Pant,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Punjab Cricket Association IS Bindra Stadium,PA Patel,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Punjab Cricket Association IS Bindra Stadium,AM Rahane,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Punjab Cricket Association IS Bindra Stadium,KL Rahul,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Punjab Cricket Association IS Bindra Stadium,RG Sharma,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,RA Jadeja,3,3,28,1,136,9,15.11,4.85,18.6,1,0
+IND,Eden Gardens,HH Pandya,2,2,20,1,105,5,21,5.25,24,0,0
+IND,Eden Gardens,R Ashwin,3,3,28,0,137,4,34.25,4.89,42,0,0
+IND,Eden Gardens,DS Kulkarni,1,1,10,1,34,4,8.5,3.4,15,1,0
+IND,Eden Gardens,B Kumar,3,3,23.1,2,126,4,31.5,5.43,34.7,0,0
+IND,Eden Gardens,Kuldeep Yadav,1,1,10,1,54,3,18,5.4,20,0,0
+IND,Eden Gardens,I Sharma,1,1,9.3,0,34,3,11.33,3.57,19,0,0
+IND,Eden Gardens,STR Binny,1,1,8,0,55,2,27.5,6.87,24,0,0
+IND,Eden Gardens,YS Chahal,1,1,10,1,34,2,17,3.4,30,0,0
+IND,Eden Gardens,AR Patel,1,1,7.1,0,51,2,25.5,7.11,21.5,0,0
+IND,Eden Gardens,SK Raina,3,3,7,0,25,2,12.5,3.57,21,0,0
+IND,Eden Gardens,UT Yadav,1,1,8,0,38,2,19,4.75,24,0,0
+IND,Eden Gardens,VR Aaron,1,1,3,0,19,1,19,6.33,18,0,0
+IND,Eden Gardens,JJ Bumrah,2,2,17,2,107,1,107,6.29,102,0,0
+IND,Eden Gardens,MK Tiwary,1,1,5,0,28,1,28,5.6,30,0,0
+IND,Eden Gardens,AB Dinda,1,1,7,0,42,0,NaN,6,NaN,0,0
+IND,Eden Gardens,P Kumar,1,1,5,0,34,0,NaN,6.8,NaN,0,0
+IND,Eden Gardens,KV Sharma,1,1,9,1,64,0,NaN,7.11,NaN,0,0
+IND,Eden Gardens,R Vinay Kumar,1,1,3,0,21,0,NaN,7,NaN,0,0
+IND,Eden Gardens,Yuvraj Singh,2,2,4,0,27,0,NaN,6.75,NaN,0,0
+IND,Eden Gardens,MS Dhoni,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,G Gambhir,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,KM Jadhav,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,V Kohli,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,MK Pandey,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,AM Rahane,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,KL Rahul,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,AT Rayudu,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,V Sehwag,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,RG Sharma,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Eden Gardens,RV Uthappa,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,VR Aaron,1,1,6.1,1,24,3,8,3.89,12.3,0,0
+IND,Wankhede Stadium,R Ashwin,1,1,10,0,38,3,12.66,3.8,20,0,0
+IND,Wankhede Stadium,RA Jadeja,2,2,18,0,82,2,41,4.55,54,0,0
+IND,Wankhede Stadium,B Kumar,2,2,20,0,162,2,81,8.1,60,0,0
+IND,Wankhede Stadium,JJ Bumrah,2,2,16,0,106,1,106,6.62,96,0,0
+IND,Wankhede Stadium,Harbhajan Singh,1,1,10,0,70,1,70,7,60,0,0
+IND,Wankhede Stadium,Kuldeep Yadav,2,2,20,0,119,1,119,5.95,120,0,0
+IND,Wankhede Stadium,P Kumar,1,1,7,1,41,1,41,5.85,42,0,0
+IND,Wankhede Stadium,HH Pandya,1,1,10,0,46,1,46,4.6,60,0,0
+IND,Wankhede Stadium,SK Raina,2,2,5,0,34,1,34,6.8,30,0,0
+IND,Wankhede Stadium,MM Sharma,1,1,7,0,84,1,84,12,42,0,0
+IND,Wankhede Stadium,R Vinay Kumar,1,1,7,1,41,1,41,5.85,42,0,0
+IND,Wankhede Stadium,YS Chahal,1,1,10,0,51,0,NaN,5.1,NaN,0,0
+IND,Wankhede Stadium,V Kohli,4,2,6,0,28,0,NaN,4.66,NaN,0,0
+IND,Wankhede Stadium,A Mishra,1,1,10,0,78,0,NaN,7.8,NaN,0,0
+IND,Wankhede Stadium,Mohammed Shami,1,1,7.4,0,58,0,NaN,7.56,NaN,0,0
+IND,Wankhede Stadium,AR Patel,1,1,8,0,65,0,NaN,8.12,NaN,0,0
+IND,Wankhede Stadium,SN Thakur,1,1,5,0,43,0,NaN,8.6,NaN,0,0
+IND,Wankhede Stadium,S Dhawan,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,MS Dhoni,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,G Gambhir,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,SS Iyer,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,KM Jadhav,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,RR Pant,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,PA Patel,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,AM Rahane,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,KL Rahul,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Wankhede Stadium,RG Sharma,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,JSCA International Stadium,R Ashwin,3,3,29,1,150,6,25,5.17,29,0,0
+IND,JSCA International Stadium,Mohammed Shami,3,3,26,1,117,5,23.4,4.5,31.2,0,0
+IND,JSCA International Stadium,RA Jadeja,3,3,26.2,0,139,4,34.75,5.27,39.5,0,0
+IND,JSCA International Stadium,DS Kulkarni,2,2,15,0,116,4,29,7.73,22.5,0,0
+IND,JSCA International Stadium,Kuldeep Yadav,1,1,10,0,64,3,21.33,6.4,20,0,0
+IND,JSCA International Stadium,AR Patel,2,2,20,0,83,3,27.66,4.15,40,0,0
+IND,JSCA International Stadium,A Mishra,1,1,10,0,42,2,21,4.2,30,0,0
+IND,JSCA International Stadium,I Sharma,1,1,7,0,29,2,14.5,4.14,21,0,0
+IND,JSCA International Stadium,R Vinay Kumar,1,1,8,0,52,2,26,6.5,24,0,0
+IND,JSCA International Stadium,STR Binny,1,1,8,1,28,1,28,3.5,48,0,0
+IND,JSCA International Stadium,B Kumar,1,1,10,2,40,1,40,4,60,0,0
+IND,JSCA International Stadium,HH Pandya,1,1,5,0,31,1,31,6.2,30,0,0
+IND,JSCA International Stadium,SK Raina,2,2,9,0,39,1,39,4.33,54,0,0
+IND,JSCA International Stadium,UT Yadav,1,1,10,1,60,1,60,6,60,0,0
+IND,JSCA International Stadium,JJ Bumrah,1,1,10,0,53,0,NaN,5.3,NaN,0,0
+IND,JSCA International Stadium,KM Jadhav,3,2,10,0,59,0,NaN,5.9,NaN,0,0
+IND,JSCA International Stadium,AT Rayudu,2,1,4,0,33,0,NaN,8.25,NaN,0,0
+IND,JSCA International Stadium,V Shankar,1,1,8,0,44,0,NaN,5.5,NaN,0,0
+IND,JSCA International Stadium,KV Sharma,1,1,10,0,61,0,NaN,6.1,NaN,0,0
+IND,JSCA International Stadium,JD Unadkat,1,1,6,0,31,0,NaN,5.16,NaN,0,0
+IND,JSCA International Stadium,Yuvraj Singh,2,1,1,0,12,0,NaN,12,NaN,0,0
+IND,JSCA International Stadium,S Dhawan,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,JSCA International Stadium,MS Dhoni,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,JSCA International Stadium,G Gambhir,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,JSCA International Stadium,V Kohli,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,JSCA International Stadium,MK Pandey,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,JSCA International Stadium,AM Rahane,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,JSCA International Stadium,RG Sharma,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,JSCA International Stadium,RV Uthappa,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,B Kumar,3,3,23,3,120,6,20,5.21,23,0,0
+IND,MA Chidambaram Stadium,YS Chahal,1,1,5,0,30,3,10,6,10,0,0
+IND,MA Chidambaram Stadium,RA Jadeja,2,2,20,0,120,3,40,6,40,0,0
+IND,MA Chidambaram Stadium,Harbhajan Singh,1,1,10,0,50,2,25,5,30,0,0
+IND,MA Chidambaram Stadium,Kuldeep Yadav,2,2,14,0,78,2,39,5.57,42,0,0
+IND,MA Chidambaram Stadium,A Mithun,1,1,7,1,32,2,16,4.57,21,0,0
+IND,MA Chidambaram Stadium,HH Pandya,1,1,4,0,28,2,14,7,12,0,0
+IND,MA Chidambaram Stadium,IK Pathan,1,1,9,1,42,2,21,4.66,27,0,0
+IND,MA Chidambaram Stadium,JJ Bumrah,1,1,4,0,20,1,20,5,24,0,0
+IND,MA Chidambaram Stadium,DL Chahar,1,1,10,1,48,1,48,4.8,60,0,0
+IND,MA Chidambaram Stadium,AB Dinda,1,1,9.1,0,45,1,45,4.9,55,0,0
+IND,MA Chidambaram Stadium,A Mishra,1,1,10,1,55,1,55,5.5,60,0,0
+IND,MA Chidambaram Stadium,Mohammed Shami,1,1,9,1,57,1,57,6.33,54,0,0
+IND,MA Chidambaram Stadium,AR Patel,1,1,10,0,40,1,40,4,60,0,0
+IND,MA Chidambaram Stadium,SK Raina,3,2,8.2,0,47,1,47,5.64,50,0,0
+IND,MA Chidambaram Stadium,I Sharma,1,1,10,0,39,1,39,3.9,60,0,0
+IND,MA Chidambaram Stadium,MM Sharma,1,1,10,0,48,1,48,4.8,60,0,0
+IND,MA Chidambaram Stadium,R Sharma,1,1,10,0,45,1,45,4.5,60,0,0
+IND,MA Chidambaram Stadium,R Ashwin,1,1,10,0,34,0,NaN,3.4,NaN,0,0
+IND,MA Chidambaram Stadium,S Dube,1,1,7.5,0,68,0,NaN,8.68,NaN,0,0
+IND,MA Chidambaram Stadium,KM Jadhav,2,1,1,0,11,0,NaN,11,NaN,0,0
+IND,MA Chidambaram Stadium,V Kohli,5,2,3.5,0,32,0,NaN,8.34,NaN,0,0
+IND,MA Chidambaram Stadium,MK Tiwary,1,1,1,0,15,0,NaN,15,NaN,0,0
+IND,MA Chidambaram Stadium,Yuvraj Singh,1,1,5,0,33,0,NaN,6.6,NaN,0,0
+IND,MA Chidambaram Stadium,S Dhawan,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,MS Dhoni,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,G Gambhir,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,SS Iyer,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,MK Pandey,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,RR Pant,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,PA Patel,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,AM Rahane,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,KL Rahul,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,V Sehwag,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,MA Chidambaram Stadium,RG Sharma,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,HH Pandya,2,2,12,0,70,4,17.5,5.83,18,0,0
+IND,Himachal Pradesh Cricket Association Stadium,UT Yadav,2,2,17,0,75,4,18.75,4.41,25.5,0,0
+IND,Himachal Pradesh Cricket Association Stadium,RA Jadeja,2,2,16.2,1,106,3,35.33,6.48,32.6,0,0
+IND,Himachal Pradesh Cricket Association Stadium,B Kumar,3,3,27.4,4,112,3,37.33,4.04,55.3,0,0
+IND,Himachal Pradesh Cricket Association Stadium,A Mishra,1,1,8.5,0,49,3,16.33,5.54,17.6,0,0
+IND,Himachal Pradesh Cricket Association Stadium,Mohammed Shami,2,2,18.1,1,118,3,39.33,6.49,36.3,0,0
+IND,Himachal Pradesh Cricket Association Stadium,KM Jadhav,1,1,3,0,6,2,3,2,9,0,0
+IND,Himachal Pradesh Cricket Association Stadium,AR Patel,2,2,19,2,67,2,33.5,3.52,57,0,0
+IND,Himachal Pradesh Cricket Association Stadium,JJ Bumrah,2,2,15,2,61,1,61,4.06,90,0,0
+IND,Himachal Pradesh Cricket Association Stadium,I Sharma,1,1,10,3,37,1,37,3.7,60,0,0
+IND,Himachal Pradesh Cricket Association Stadium,R Ashwin,1,1,10,0,50,0,NaN,5,NaN,0,0
+IND,Himachal Pradesh Cricket Association Stadium,V Kohli,3,1,1,0,14,0,NaN,14,NaN,0,0
+IND,Himachal Pradesh Cricket Association Stadium,Yuvraj Singh,1,1,2,0,15,0,NaN,7.5,NaN,0,0
+IND,Himachal Pradesh Cricket Association Stadium,YS Chahal,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,S Dhawan,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,MS Dhoni,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,G Gambhir,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,SS Iyer,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,Kuldeep Yadav,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,MK Pandey,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,AM Rahane,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,SK Raina,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,AT Rayudu,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+IND,Himachal Pradesh Cricket Association Stadium,RG Sharma,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,Mahinda Rajapaksa International Cricket Stadium,R Ashwin,2,2,15,2,64,3,21.33,4.26,30,0,0
+SL,Mahinda Rajapaksa International Cricket Stadium,IK Pathan,2,2,14,1,64,2,32,4.57,42,0,0
+SL,Mahinda Rajapaksa International Cricket Stadium,UT Yadav,2,2,14,0,114,2,57,8.14,42,0,0
+SL,Mahinda Rajapaksa International Cricket Stadium,Z Khan,2,2,16,0,102,1,102,6.37,96,0,0
+SL,Mahinda Rajapaksa International Cricket Stadium,PP Ojha,2,2,6.5,0,51,1,51,7.46,41,0,0
+SL,Mahinda Rajapaksa International Cricket Stadium,V Sehwag,2,1,4,0,20,0,NaN,5,NaN,0,0
+SL,Mahinda Rajapaksa International Cricket Stadium,MS Dhoni,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,Mahinda Rajapaksa International Cricket Stadium,G Gambhir,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,Mahinda Rajapaksa International Cricket Stadium,V Kohli,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,Mahinda Rajapaksa International Cricket Stadium,SK Raina,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,Mahinda Rajapaksa International Cricket Stadium,RG Sharma,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,Pallekele International Cricket Stadium,JJ Bumrah,2,2,20,4,70,9,7.77,3.5,13.3,1,1
+SL,Pallekele International Cricket Stadium,IK Pathan,1,1,10,0,61,5,12.2,6.1,12,0,1
+SL,Pallekele International Cricket Stadium,YS Chahal,2,2,20,1,92,2,46,4.6,60,0,0
+SL,Pallekele International Cricket Stadium,AB Dinda,1,1,7.4,0,55,2,27.5,7.17,23,0,0
+SL,Pallekele International Cricket Stadium,HH Pandya,2,2,13.2,0,66,2,33,4.95,40,0,0
+SL,Pallekele International Cricket Stadium,AR Patel,2,2,20,1,65,2,32.5,3.25,60,0,0
+SL,Pallekele International Cricket Stadium,KM Jadhav,2,2,7.4,0,44,1,44,5.73,46,0,0
+SL,Pallekele International Cricket Stadium,Z Khan,1,1,9,1,53,1,53,5.88,54,0,0
+SL,Pallekele International Cricket Stadium,R Ashwin,1,1,9,0,37,0,NaN,4.11,NaN,0,0
+SL,Pallekele International Cricket Stadium,V Kohli,3,1,1,0,3,0,NaN,3,NaN,0,0
+SL,Pallekele International Cricket Stadium,B Kumar,2,2,19,2,94,0,NaN,4.94,NaN,0,0
+SL,Pallekele International Cricket Stadium,SK Raina,1,1,2,0,12,0,NaN,6,NaN,0,0
+SL,Pallekele International Cricket Stadium,RG Sharma,3,1,6,0,23,0,NaN,3.83,NaN,0,0
+SL,Pallekele International Cricket Stadium,MK Tiwary,1,1,1,0,14,0,NaN,14,NaN,0,0
+SL,Pallekele International Cricket Stadium,S Dhawan,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,Pallekele International Cricket Stadium,MS Dhoni,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,Pallekele International Cricket Stadium,G Gambhir,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,Pallekele International Cricket Stadium,AM Rahane,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,Pallekele International Cricket Stadium,KL Rahul,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,R Premadasa Stadium,B Kumar,1,1,9.4,0,42,5,8.4,4.34,11.6,0,1
+SL,R Premadasa Stadium,JJ Bumrah,2,2,17,0,77,4,19.25,4.52,25.5,0,0
+SL,R Premadasa Stadium,MK Tiwary,1,1,10,1,61,4,15.25,6.1,15,1,0
+SL,R Premadasa Stadium,Kuldeep Yadav,2,2,18.4,1,71,3,23.66,3.8,37.3,0,0
+SL,R Premadasa Stadium,R Ashwin,2,2,20,1,96,2,48,4.8,60,0,0
+SL,R Premadasa Stadium,AB Dinda,2,2,16,0,104,2,52,6.5,48,0,0
+SL,R Premadasa Stadium,Z Khan,2,2,16,0,75,2,37.5,4.68,48,0,0
+SL,R Premadasa Stadium,HH Pandya,1,1,8,0,50,2,25,6.25,24,0,0
+SL,R Premadasa Stadium,YS Chahal,1,1,10,0,36,1,36,3.6,60,0,0
+SL,R Premadasa Stadium,AR Patel,1,1,10,0,55,1,55,5.5,60,0,0
+SL,R Premadasa Stadium,IK Pathan,2,2,16,0,86,1,86,5.37,96,0,0
+SL,R Premadasa Stadium,V Sehwag,2,2,9,1,41,1,41,4.55,54,0,0
+SL,R Premadasa Stadium,R Sharma,1,1,8,0,45,1,45,5.62,48,0,0
+SL,R Premadasa Stadium,SN Thakur,2,2,13,0,74,1,74,5.69,78,0,0
+SL,R Premadasa Stadium,KM Jadhav,1,1,4,0,20,0,NaN,5,NaN,0,0
+SL,R Premadasa Stadium,V Kohli,4,2,4,0,19,0,NaN,4.75,NaN,0,0
+SL,R Premadasa Stadium,RG Sharma,4,2,3,0,10,0,NaN,3.33,NaN,0,0
+SL,R Premadasa Stadium,S Dhawan,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,R Premadasa Stadium,MS Dhoni,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,R Premadasa Stadium,G Gambhir,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,R Premadasa Stadium,MK Pandey,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,R Premadasa Stadium,AM Rahane,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,R Premadasa Stadium,KL Rahul,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+SL,R Premadasa Stadium,SK Raina,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Queens Park Oval,B Kumar,7,6,40,8,149,15,9.93,3.72,16,2,0
+WI,Queens Park Oval,RA Jadeja,5,5,28.5,2,125,10,12.5,4.33,17.3,1,0
+WI,Queens Park Oval,I Sharma,3,3,19,2,92,6,15.33,4.84,19,0,0
+WI,Queens Park Oval,Kuldeep Yadav,3,2,19,0,109,5,21.8,5.73,22.8,0,0
+WI,Queens Park Oval,MM Patel,2,2,19,3,82,5,16.4,4.31,22.8,0,0
+WI,Queens Park Oval,KK Ahmed,2,2,14,0,100,4,25,7.14,21,0,0
+WI,Queens Park Oval,R Ashwin,5,4,28,0,134,4,33.5,4.78,42,0,0
+WI,Queens Park Oval,A Mishra,2,2,20,3,69,4,17.25,3.45,30,1,0
+WI,Queens Park Oval,Mohammed Shami,2,2,15,1,89,4,22.25,5.93,22.5,0,0
+WI,Queens Park Oval,UT Yadav,4,3,18.4,1,96,4,24,5.14,28,0,0
+WI,Queens Park Oval,Harbhajan Singh,2,2,20,1,83,3,27.66,4.15,40,0,0
+WI,Queens Park Oval,P Kumar,2,2,20,1,91,2,45.5,4.55,60,0,0
+WI,Queens Park Oval,YK Pathan,2,2,10,0,67,2,33.5,6.7,30,0,0
+WI,Queens Park Oval,SK Raina,5,3,14,0,59,2,29.5,4.21,42,0,0
+WI,Queens Park Oval,YS Chahal,1,1,7,0,32,1,32,4.57,42,0,0
+WI,Queens Park Oval,KM Jadhav,4,2,9,0,38,0,NaN,4.22,NaN,0,0
+WI,Queens Park Oval,V Kohli,9,2,6,1,33,0,NaN,5.5,NaN,0,0
+WI,Queens Park Oval,HH Pandya,2,1,9,0,32,0,NaN,3.55,NaN,0,0
+WI,Queens Park Oval,R Vinay Kumar,1,1,6,1,15,0,NaN,2.5,NaN,0,0
+WI,Queens Park Oval,Yuvraj Singh,2,1,5,0,25,0,NaN,5,NaN,0,0
+WI,Queens Park Oval,S Badrinath,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Queens Park Oval,S Dhawan,9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Queens Park Oval,MS Dhoni,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Queens Park Oval,SS Iyer,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Queens Park Oval,KD Karthik,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Queens Park Oval,RR Pant,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Queens Park Oval,PA Patel,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Queens Park Oval,AM Rahane,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Queens Park Oval,RG Sharma,7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Queens Park Oval,M Vijay,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sabina Park,UT Yadav,3,3,27.4,3,160,6,26.66,5.78,27.6,0,0
+WI,Sabina Park,Mohammed Shami,2,2,20,0,116,4,29,5.8,30,1,0
+WI,Sabina Park,R Ashwin,3,3,30,1,161,3,53.66,5.36,60,0,0
+WI,Sabina Park,A Mishra,1,1,10,1,46,2,23,4.6,30,0,0
+WI,Sabina Park,I Sharma,3,3,27.4,0,168,2,84,6.07,83,0,0
+WI,Sabina Park,KM Jadhav,1,1,4,0,13,1,13,3.25,24,0,0
+WI,Sabina Park,B Kumar,1,1,7,1,36,1,36,5.14,42,0,0
+WI,Sabina Park,HH Pandya,1,1,6,0,27,1,27,4.5,36,0,0
+WI,Sabina Park,SK Raina,3,3,10,1,49,1,49,4.9,60,0,0
+WI,Sabina Park,R Vinay Kumar,1,1,9,2,46,1,46,5.11,54,0,0
+WI,Sabina Park,RA Jadeja,3,3,29,2,132,0,NaN,4.55,NaN,0,0
+WI,Sabina Park,V Kohli,4,2,5,0,22,0,NaN,4.4,NaN,0,0
+WI,Sabina Park,Kuldeep Yadav,1,1,10,0,36,0,NaN,3.6,NaN,0,0
+WI,Sabina Park,YK Pathan,1,1,1,0,7,0,NaN,7,NaN,0,0
+WI,Sabina Park,S Dhawan,4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sabina Park,MS Dhoni,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sabina Park,KD Karthik,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sabina Park,PA Patel,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sabina Park,AM Rahane,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sabina Park,RG Sharma,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sabina Park,MK Tiwary,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sabina Park,M Vijay,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sir Vivian Richards Stadium,Kuldeep Yadav,2,2,20,2,72,5,14.4,3.6,24,0,0
+WI,Sir Vivian Richards Stadium,A Mishra,2,2,20,5,84,5,16.8,4.2,24,0,0
+WI,Sir Vivian Richards Stadium,HH Pandya,2,2,16,0,72,5,14.4,4.5,19.2,0,0
+WI,Sir Vivian Richards Stadium,R Ashwin,2,2,20,2,67,4,16.75,3.35,30,0,0
+WI,Sir Vivian Richards Stadium,UT Yadav,2,2,17,1,68,4,17,4,25.5,0,0
+WI,Sir Vivian Richards Stadium,P Kumar,2,2,20,4,83,3,27.66,4.15,40,0,0
+WI,Sir Vivian Richards Stadium,MM Patel,1,1,10,1,60,3,20,6,20,0,0
+WI,Sir Vivian Richards Stadium,Harbhajan Singh,1,1,10,2,24,1,24,2.4,60,0,0
+WI,Sir Vivian Richards Stadium,KM Jadhav,2,1,0.1,0,0,1,0,0,1,0,0
+WI,Sir Vivian Richards Stadium,I Sharma,1,1,10,0,60,1,60,6,60,0,0
+WI,Sir Vivian Richards Stadium,RA Jadeja,1,1,10,0,48,0,NaN,4.8,NaN,0,0
+WI,Sir Vivian Richards Stadium,V Kohli,4,1,1,0,7,0,NaN,7,NaN,0,0
+WI,Sir Vivian Richards Stadium,B Kumar,1,1,5,0,19,0,NaN,3.8,NaN,0,0
+WI,Sir Vivian Richards Stadium,Mohammed Shami,1,1,10,2,33,0,NaN,3.3,NaN,0,0
+WI,Sir Vivian Richards Stadium,YK Pathan,2,2,11,0,51,0,NaN,4.63,NaN,0,0
+WI,Sir Vivian Richards Stadium,SK Raina,2,1,4,0,31,0,NaN,7.75,NaN,0,0
+WI,Sir Vivian Richards Stadium,MK Tiwary,1,1,4,0,26,0,NaN,6.5,NaN,0,0
+WI,Sir Vivian Richards Stadium,S Badrinath,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sir Vivian Richards Stadium,S Dhawan,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sir Vivian Richards Stadium,MS Dhoni,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sir Vivian Richards Stadium,KD Karthik,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sir Vivian Richards Stadium,PA Patel,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sir Vivian Richards Stadium,AM Rahane,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sir Vivian Richards Stadium,RG Sharma,2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+WI,Sir Vivian Richards Stadium,Yuvraj Singh,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
