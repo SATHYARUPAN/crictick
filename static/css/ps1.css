@@ -1,0 +1,34 @@
+body
+{
+    background-image: url('../images/category-2.jpg');
+    background-size: cover;
+    /* margin-top: 10%; */
+}
+
+.card
+{
+    border-radius: 25px;
+    margin-top: 40%;
+    background-color: rgb(230, 217, 217,0.5);
+}
+input[type="text"]
+{
+    border-radius: 25px;
+}
+input[type="submit"]
+{
+    border-radius: 25px;
+}
+h4
+{
+    color: white;
+}
+@media only screen and (max-width: 500px)
+{
+    body
+    {
+        background-image: url('../images/category-2.jpg');
+        background-size: cover;
+    }
+
+}
